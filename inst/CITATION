@@ -1,0 +1,8 @@
+bibentry("Article",
+         title       = "How do price (risk) changes influence farmers’ preference to reduce fertilizer application?",
+                  author = c(person("Sergei","Schaub"),
+                    person("Nadja", "El Benni")),
+         year = "forthcoming",
+         journal = "xxx",
+         header = "To cite the paper that the R stodom package is based on:\n"
+)

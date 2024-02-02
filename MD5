@@ -1,0 +1,12 @@
+ae014b8d9e02c56d303534feb05925b9 *DESCRIPTION
+4f9aed9bcfc0a47b9e5a16b5be6796a3 *LICENSE
+767bc99a1000d56aa9768ab62976c838 *NAMESPACE
+4d0a487aa6cfc5b322be01741fbbd65c *R/stodom_functions.R
+71b36924d0e227b93c6448d9f95f2597 *inst/CITATION
+7f8af8fc5d0a8922a680b3e7a19b0500 *man/dif_ecdf_plot.Rd
+5c565138752b36236031d661274dec08 *man/ecdf_dat_g.Rd
+2d3bd3013b3c6175e287996f7924e1b1 *man/ecdf_plot.Rd
+1b5670c6cdd7d72c99b9de14894f368d *man/fo_stodom.Rd
+6e3b05662c492702f3dc5bc5e7ffd932 *man/so_stodom.Rd
+91be45bd84b97a1739eec907add1d9b8 *tests/testthat.R
+cb46115120ebff6c3e61398922f93582 *tests/testthat/test_library.R
